@@ -10,3 +10,6 @@
 | ![image](https://github.com/xiguanxingxiahuaxian/PrIconLibrary/blob/master/app/src/main/res/mipmap-hdpi/pr_left_blue_u.png) | pr_left_blue_u.png | 蓝色回退 |
 | ![image](https://github.com/xiguanxingxiahuaxian/PrIconLibrary/blob/master/app/src/main/res/mipmap-hdpi/pr_left_green_u.png) | pr_left_green_u.png | 绿色回退 |
 | ![image](https://github.com/xiguanxingxiahuaxian/PrIconLibrary/blob/master/app/src/main/res/mipmap-hdpi/pr_left_white_u.png) | pr_left_white_u.png | 白色回退 |
+| ![image](https://github.com/xiguanxingxiahuaxian/PrIconLibrary/blob/master/app/src/main/res/mipmap-hdpi/pr_right_blue.png) | pr_right_blue_.png | 蓝色前进 |
+| ![image](https://github.com/xiguanxingxiahuaxian/PrIconLibrary/blob/master/app/src/main/res/mipmap-hdpi/pr_right_green.png) | pr_right_green.png | 绿色前进 |
+| ![image](https://github.com/xiguanxingxiahuaxian/PrIconLibrary/blob/master/app/src/main/res/mipmap-hdpi/pr_right_white.png) | pr_right_white.png | 白色前进 |
