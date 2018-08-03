@@ -5,15 +5,8 @@
 
 将加入图片与文字的说明
 
-![image](https://github.com/xiguanxingxiahuaxian/PrIconLibrary/blob/master/app/src/main/res/mipmap-hdpi/pr_left_blue.png) ![image](https://github.com/xiguanxingxiahuaxian/PrIconLibrary/blob/master/app/src/main/res/mipmap-hdpi/pr_left_green.png)  ![image](https://github.com/xiguanxingxiahuaxian/PrIconLibrary/blob/master/app/src/main/res/mipmap-hdpi/pr_left_white.png)
+![image](https://github.com/xiguanxingxiahuaxian/PrIconLibrary/blob/master/app/src/main/res/mipmap-hdpi/pr_left_blue_u.png) ![image](https://github.com/xiguanxingxiahuaxian/PrIconLibrary/blob/master/app/src/main/res/mipmap-hdpi/pr_left_green_u.png)  ![image](https://github.com/xiguanxingxiahuaxian/PrIconLibrary/blob/master/app/src/main/res/mipmap-hdpi/pr_left_white_u.png)
 
-pr_left_blue.png蓝色回退  
-
-
-
-pr_left_green.png绿色回退  
-
-
-pr_left_white.png白色回退  
+pr_left_blue.png蓝色回退  pr_left_green.png绿色回退  pr_left_white.png白色回退  
 
 
