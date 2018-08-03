@@ -10,10 +10,11 @@
 pr_left_blue.png蓝色回退  
 
 ![image](https://github.com/xiguanxingxiahuaxian/PrIconLibrary/blob/master/app/src/main/res/mipmap-hdpi/pr_left_green.png)
+
 pr_left_green.png绿色回退  
 
 ![image](https://github.com/xiguanxingxiahuaxian/PrIconLibrary/blob/master/app/src/main/res/mipmap-hdpi/pr_left_white.png)
 
-pr_left_white.png绿色回退  
+pr_left_white.png白色回退  
 
 
