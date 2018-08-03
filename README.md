@@ -4,10 +4,8 @@
 # 2018-8-3正式开发一个以icon为核心的库
 
 将加入图片与文字的说明
-
-![image](https://github.com/xiguanxingxiahuaxian/PrIconLibrary/blob/master/app/src/main/res/mipmap-hdpi/pr_left_blue_u.png) ![image](https://github.com/xiguanxingxiahuaxian/PrIconLibrary/blob/master/app/src/main/res/mipmap-hdpi/pr_left_green_u.png)  ![image](https://github.com/xiguanxingxiahuaxian/PrIconLibrary/blob/master/app/src/main/res/mipmap-hdpi/pr_left_white_u.png)
-
-pr_left_blue_u.png    pr_left_green_u.png     pr_left_white_U.png 
-
-蓝色回退   绿色回退    白色回退 
+|图片|命名|描述|
+|-![image](https://github.com/xiguanxingxiahuaxian/PrIconLibrary/blob/master/app/src/main/res/mipmap-hdpi/pr_left_blue_u.png)|-![image](https://github.com/xiguanxingxiahuaxian/PrIconLibrary/blob/master/app/src/main/res/mipmap-hdpi/pr_left_green_u.png)|-![image](https://github.com/xiguanxingxiahuaxian/PrIconLibrary/blob/master/app/src/main/res/mipmap-hdpi/pr_left_white_u.png)|
+|-pr_left_blue_u.png|-pr_left_green_u.png|-pr_left_white_u.png| 
+|蓝色回退|绿色回退|白色回退| 
 
