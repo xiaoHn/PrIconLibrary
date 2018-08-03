@@ -21,3 +21,14 @@
 | ![image](https://github.com/xiguanxingxiahuaxian/PrIconLibrary/blob/master/app/src/main/res/mipmap-hdpi/pr_query_blue_a.png) | pr_query_blue_a.png | 蓝色查询  |
 | ![image](https://github.com/xiguanxingxiahuaxian/PrIconLibrary/blob/master/app/src/main/res/mipmap-hdpi/pr_query_green_a.png) | pr_query_green_a.png | 绿色查询  |
 | ![image](https://github.com/xiguanxingxiahuaxian/PrIconLibrary/blob/master/app/src/main/res/mipmap-hdpi/pr_query_white_a.png) | pr_query_white_a.png | 白色查询  |
+| ![image](https://github.com/xiguanxingxiahuaxian/PrIconLibrary/blob/master/app/src/main/res/mipmap-hdpi/pr_more_black_a.png) | pr_more_black_a.png | 黑色更多 |
+| ![image](https://github.com/xiguanxingxiahuaxian/PrIconLibrary/blob/master/app/src/main/res/mipmap-hdpi/pr_more_blue_a.png) | pr_more_blue_a.png | 蓝色更多  |
+| ![image](https://github.com/xiguanxingxiahuaxian/PrIconLibrary/blob/master/app/src/main/res/mipmap-hdpi/pr_more_green_a.png) | pr_more_green_a.png | 绿色更多  |
+| ![image](https://github.com/xiguanxingxiahuaxian/PrIconLibrary/blob/master/app/src/main/res/mipmap-hdpi/pr_more_white_a.png) | pr_more_white_a.png | 白色更多  |
+| ![image](https://github.com/xiguanxingxiahuaxian/PrIconLibrary/blob/master/app/src/main/res/mipmap-hdpi/pr_delete_black_a.png) | pr_delete_black_a.png | 黑色删除 |
+| ![image](https://github.com/xiguanxingxiahuaxian/PrIconLibrary/blob/master/app/src/main/res/mipmap-hdpi/pr_delete_blue_a.png) | pr_delete_blue_a.png | 蓝色删除  |
+| ![image](https://github.com/xiguanxingxiahuaxian/PrIconLibrary/blob/master/app/src/main/res/mipmap-hdpi/pr_delete_green_a.png) | pr_delete_green_a.png | 绿色删除  |
+| ![image](https://github.com/xiguanxingxiahuaxian/PrIconLibrary/blob/master/app/src/main/res/mipmap-hdpi/pr_delete_white_a.png) | pr_delete_white_a.png | 白色删除  |
+| ![image](https://github.com/xiguanxingxiahuaxian/PrIconLibrary/blob/master/app/src/main/res/mipmap-hdpi/pr_xin_red_a.png) | pr_xin_red_a.png | 红色心  |
+| ![image](https://github.com/xiguanxingxiahuaxian/PrIconLibrary/blob/master/app/src/main/res/mipmap-hdpi/pr_xin_green_a.png) | pr_xin_green_a.png | 绿色心  |
+| ![image](https://github.com/xiguanxingxiahuaxian/PrIconLibrary/blob/master/app/src/main/res/mipmap-hdpi/pr_xin_white_a.png) | pr_xin_white_a.png | 白色心  |
