@@ -13,7 +13,11 @@
 | ![image](https://github.com/xiguanxingxiahuaxian/PrIconLibrary/blob/master/app/src/main/res/mipmap-hdpi/pr_right_blue.png) | pr_right_blue_.png | 蓝色前进 |
 | ![image](https://github.com/xiguanxingxiahuaxian/PrIconLibrary/blob/master/app/src/main/res/mipmap-hdpi/pr_right_green.png) | pr_right_green.png | 绿色前进 |
 | ![image](https://github.com/xiguanxingxiahuaxian/PrIconLibrary/blob/master/app/src/main/res/mipmap-hdpi/pr_right_white.png) | pr_right_white.png | 白色前进 |
-| ![image](https://github.com/xiguanxingxiahuaxian/PrIconLibrary/blob/master/app/src/main/res/mipmap-hdpi/pr_home_black_a.png) | pr_home_black_a.png | 黑色前进 |
-| ![image](https://github.com/xiguanxingxiahuaxian/PrIconLibrary/blob/master/app/src/main/res/mipmap-hdpi/pr_home_blue_a.png) | pr_home_blue_a.png | 蓝色前进 |
-| ![image](https://github.com/xiguanxingxiahuaxian/PrIconLibrary/blob/master/app/src/main/res/mipmap-hdpi/pr_home_green_a.png) | pr_home_green_a.png | 绿色前进 |
-| ![image](https://github.com/xiguanxingxiahuaxian/PrIconLibrary/blob/master/app/src/main/res/mipmap-hdpi/pr_home_white_a.png) | pr_home_white_a.png | 白色前进 |
+| ![image](https://github.com/xiguanxingxiahuaxian/PrIconLibrary/blob/master/app/src/main/res/mipmap-hdpi/pr_home_black_a.png) | pr_home_black_a.png | 黑色home |
+| ![image](https://github.com/xiguanxingxiahuaxian/PrIconLibrary/blob/master/app/src/main/res/mipmap-hdpi/pr_home_blue_a.png) | pr_home_blue_a.png | 蓝色home  |
+| ![image](https://github.com/xiguanxingxiahuaxian/PrIconLibrary/blob/master/app/src/main/res/mipmap-hdpi/pr_home_green_a.png) | pr_home_green_a.png | 绿色home  |
+| ![image](https://github.com/xiguanxingxiahuaxian/PrIconLibrary/blob/master/app/src/main/res/mipmap-hdpi/pr_home_white_a.png) | pr_home_white_a.png | 白色home  |
+| ![image](https://github.com/xiguanxingxiahuaxian/PrIconLibrary/blob/master/app/src/main/res/mipmap-hdpi/pr_query_black_a.png) | pr_query_black_a.png | 黑色查询 |
+| ![image](https://github.com/xiguanxingxiahuaxian/PrIconLibrary/blob/master/app/src/main/res/mipmap-hdpi/pr_query_blue_a.png) | pr_query_blue_a.png | 蓝色查询  |
+| ![image](https://github.com/xiguanxingxiahuaxian/PrIconLibrary/blob/master/app/src/main/res/mipmap-hdpi/pr_query_green_a.png) | pr_query_green_a.png | 绿色查询  |
+| ![image](https://github.com/xiguanxingxiahuaxian/PrIconLibrary/blob/master/app/src/main/res/mipmap-hdpi/pr_query_white_a.png) | pr_query_white_a.png | 白色查询  |
