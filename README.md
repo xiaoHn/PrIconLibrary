@@ -10,3 +10,8 @@
 |-pr_left_blue_u.png|-pr_left_green_u.png|-pr_left_white_u.png| 
 |蓝色回退|绿色回退|白色回退| 
 
+| Name | Academy | score |
+| - | :-: | -: |
+| Harry Potter | Gryffindor| 90 |
+| Hermione Granger | Gryffindor | 100 |
+| Draco Malfoy | Slytherin | 90 |
